@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7191BE09-4EF3-45B1-831D-497DA9261489}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webapi/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="webapi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" Line="31" Column="88" />
+      <File FileName="webapi/Controllers/HomeController.cs" Line="38" Column="1" />
+      <File FileName="webapi/Controllers/ErrorViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapi" expanded="True" selected="True">
+            <Node name="webapi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
